@@ -21,6 +21,6 @@ To install the library without full voice support, you can just run the followin
 Links
 ------
 
-Discord Developer: https://discord.com/developers/applications
-Official Discord.py Server: https://discord.gg/dpy
-My Server: https://discord.gg/Cmy35uJunT
+# Discord Developer: https://discord.com/developers/applications
+# Official Discord.py Server: https://discord.gg/dpy
+# My Server: https://discord.gg/Cmy35uJunT
