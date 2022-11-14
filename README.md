@@ -1,4 +1,4 @@
-# Discord Bot Series
+# Rustic Discord.py
 
 <br>
 Hello, Welcome To My Github Repo
