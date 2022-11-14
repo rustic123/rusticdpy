@@ -21,4 +21,4 @@ async def on_member_join(member):
     except:
         await welcome_channel.send(f"{member.mention} I can't dm you, but thank you for joining!")
    
-client.run('your token here')
+bot.run('your discord token here')
