@@ -14,4 +14,4 @@ async def eightball(ctx, *, question):
 
   await ctx.send(f":8ball: Question: {question}\n:8ball: Answer: {random.choice(responses)}")
 
-bot.run('MTA0MTY0NDk4NDAxNDczNzQ1MQ.GwMKCV.Mf6jfRC5QD8n_qJqGLZiuHung-g1V0yrn3mwYg')
+bot.run('your discord token here')
