@@ -5,7 +5,7 @@ Hello, Welcome To My Github Repo
 If you want to start coding discord.py
 Do These
 <h3>
-Installing
+Installing<br>
 ----------
 
 **Python 3.8 or higher is required**
