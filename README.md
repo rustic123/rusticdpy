@@ -12,8 +12,6 @@ Installing
 
 To install the library without full voice support, you can just run the following command:
 
-.. code:: sh
-
     # Linux/macOS
     python3 -m pip install -U discord.py
 
